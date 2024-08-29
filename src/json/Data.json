@@ -1,0 +1,18 @@
+[
+    {
+        "state":"rajasthan",
+        "city":["jaipur","kota","alwar"]
+    },
+    {
+        "state":"mp",
+        "city":["bhopal","indore","ratlam"]
+    },
+    {
+        "state":"up",
+        "city":["kanpur","mathura","agra"]
+    },
+    {
+        "state":"punjab",
+        "city":["amritsar","ludhiana","chandigarh"]
+    }
+]

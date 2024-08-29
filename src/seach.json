@@ -1,0 +1,162 @@
+[
+    {
+    "id": 1,
+    "title": "LAPTOP BAG",
+    "price":  1100,
+    "description": "Your perfect pack for everyday use and walks in the forest",
+    "category": "men's",
+    "image": "https://massimiliano.in/wp-content/uploads/2020/10/0W8A9922-1.jpg"
+    },
+    {
+    "id": 2,
+    "title": "MEN'S CAUSAL T-SHIRT",
+    "price":  550,
+    "description": "Slim-fitting style, contrast raglan long sleeve, three-button henley placket, light weight & soft fabric for breathable and comfortable wearing. And Solid stitched shirts with round neck made for durability and a great fit for casual fashion wear and diehard baseball fans. The Henley style round neckline includes a three-button placket.",
+    "category": "men's",
+    "image": "https://fakestoreapi.com/img/71-3HjGNDUL._AC_SY879._SX._UX._SY._UY_.jpg"
+    },
+    {
+    "id": 3,
+    "title": "Mens Cotton Jacket",
+    "price":  1500,
+    "description": "great outerwear jackets for Spring/Autumn/Winter, suitable for many occasions, such as working, hiking, camping, mountain/rock climbing, cycling, traveling or other outdoors. Good gift choice for you or your family member. A warm hearted love to Father, husband or son in this thanksgiving or Christmas Day.",
+    "category": "men's",
+    "image": "https://fakestoreapi.com/img/71li-ujtlUL._AC_UX679_.jpg"
+    },
+    {
+    "id": 4,
+    "title": "Mens Slim Fit",
+    "price":  600,
+    "description": "The color could be slightly different between on the screen and in practice. / Please note that body builds vary by person, therefore, detailed size information should be reviewed below on the produc.",
+    "category": "men's",
+    "image": "https://fakestoreapi.com/img/71YXzeOuslL._AC_UY879_.jpg"
+    },
+    {
+    "id": 5,
+    "title": "Dragon Bracelet",
+    "price":  2500,
+    "description": "From our Legends Collection, the Naga was inspired by the mythical water dragon that protects the ocean's pearl. Wear facing inward to be bestowed with love and abundance, or outward for protection.",
+    "category": "jewelery",
+    "image": "https://fakestoreapi.com/img/71pWzhdJNwL._AC_UL640_QL65_ML3_.jpg"
+    },
+    {
+    "id": 6,
+    "title": "Solid Silver ",
+    "price":  2800,
+    "description": "Satisfaction Guaranteed. Return or exchange any order within 30 days.Designed and sold by Hafeez Center in the United States. Satisfaction Guaranteed. Return or exchange any order within 30 days.",
+    "category": "jewelery",
+    "image": "https://fakestoreapi.com/img/61sbMiUnoGL._AC_UL640_QL65_ML3_.jpg"
+    },
+    {
+    "id": 7,
+    "title": "White Gold Plated Princess",
+    "price":  3000,
+    "description": "Classic Created Wedding Engagement Solitaire Diamond Promise Ring for Her. Gifts to spoil your love more for Engagement, Wedding, Anniversary, Valentine's Day...",
+    "category": "jewelery",
+    "image": "https://fakestoreapi.com/img/71YAIFU48IL._AC_UL640_QL65_ML3_.jpg"
+    },
+    {
+    "id": 8,
+    "title": "Pierced Owl Rose Gold Plated Stainless Steel Double",
+    "price":  800,
+    "description": "Rose Gold Plated Double Flared Tunnel Plug Earrings. Made of 316L Stainless Steel",
+    "category": "jewelery",
+    "image": "https://ladyindia.com/cdn/shop/products/71VhH_2Bh6eWL._UL1500_1024x1024.jpg?v=1571439181"
+    },
+    {
+    "id": 9,
+    "title": "Hard Drive -USB 3.0 ",
+    "price":  1100,
+    "description": "USB 3.0 and USB 2.0 Compatibility Fast data transfers Improve PC Performance High Capacity; Compatibility Formatted NTFS for Windows 10, Windows 8.1, Windows 7; Reformatting may be required for other operating systems; Compatibility may vary depending on user’s hardware configuration and operating system",
+    "category": "electronics",
+    "image": "https://fakestoreapi.com/img/61IBBVJvSDL._AC_SY879_.jpg"
+    },
+    {
+    "id": 10,
+    "title": "SanDisk SSD ",
+    "price":  3100,
+    "description": "Easy upgrade for faster boot up, shutdown, application load and response (As compared to 5400 RPM SATA 2.5” hard drive; Based on published specifications and internal benchmarking tests using PCMark vantage scores) Boosts burst write performance, making it ideal for typical PC workloads The perfect balance of performance and reliability Read/write speeds of up to 535MB/s/450MB/s (Based on internal testing; Performance may vary depending upon drive capacity, host device, OS and application.)",
+    "category": "electronics",
+    "image": "https://fakestoreapi.com/img/61U7T1koQqL._AC_SX679_.jpg"
+    },
+    {
+        "id": 11,
+        "title":"Electric Shaver Razor",
+        "price":  1500,
+        "description":"This Mens Electric Razor equipped with 3 double-ring floating electric razor heads、double-track ultra-thin cutter net and self-sharpening steel blade.This Cordless Electric Shaver can form a Ergonomic V-Track shaving angle of 152 degree max when pressing over face, 360°fit your contour better to remain in close contact with the skin for a fast shave that's also gentle on the skin.",
+        "category":"electronics",
+        "image":"https://m.media-amazon.com/images/I/619wM8HXVwL.jpg"
+    },
+    {
+        "id": 12,
+        "title":"Fashion Female Bags",
+        "price":  999,
+        "description":"Fashion Female Bags PU Leather Women Shoulder Bag Luxury Messenger Bag Totes Shoulder Bags Female Leather Handbag Purse",
+        "category":"woman's",
+        "image":"https://i5.walmartimages.com/asr/0524470f-6ddc-4af0-9a53-d2afd5ef6a02.21f9e31523d5bdf7d303b820fa83679d.jpeg"
+    },
+    {
+        "id":"13",
+        "title": "Women's Embroidered Stylish",
+        "price":  800,
+        "description":"Elyraa Women's Embroidered Stylish Western Tops for Women/Girls",
+        "category":"woman's",
+        "image":"https://images-na.ssl-images-amazon.com/images/I/719tXaKp3EL.jpg"
+    },
+    {
+        "id":"14",
+        "title":"iPhone 15 pro",
+        "price":127999,
+        "description":"iPhone 15 Pro. Forged in titanium and featuring the groundbreaking A17 Pro chip, a customisable Action button and the most powerful iPhone camera system ever. iPhone 15 Pro has a strong and light aerospace-grade titanium design with a textured matt-glass back. It also features a Ceramic Shield front that’s tougher than any smartphone glass. And it's splash, water and dust resistant.",
+        "category":"electronics",
+        "image":"https://www.maplestore.in/cdn/shop/files/iPhone_15_Pro_Blue_Titanium_PDP_Image_Position-1__en-IN_b566cedb-ec09-4afd-9899-b726c06d3add_1445x.jpg?v=1701825864"
+    },
+    {
+       "id":"15",
+       "title":"Women's Floral",
+       "price":400,
+       "description":"This sweet summer dress will have no problem finding its way to your closet. With a fun, colorful flower print this dress also features a square neckline, elbow sleeve, smocked bodice, and tiered skirt! With blue accent colors to mesh perfectly with any turquoise jewelry 100% Cotton",
+       "category":"woman's",
+       "image":"https://brandedcountrywear.com/cdn/shop/files/18580717_b9327fef-705f-4522-851d-a1b872cf6eea.jpg?v=1685638184&width=1200"
+    },
+    {
+        "id":"16",
+        "title":"Jewellery Sets for Women Gold",
+        "price":1000,
+        "description":"YouBella Jewellery Sets for Women Gold Plated Kundan Traditional Necklace set for women Jewellery set with Earrings For GirlsYouBella Jewellery Sets for Women Gold Plated Kundan Traditional Necklace set for women Jewellery set with Earrings For Girls",
+        "category":"jewelery",
+        "image":"https://m.media-amazon.com/images/I/81F7X5QNCXL.SS700.jpg"
+     },
+     {
+        "id":"17",
+        "title":"Fashion Golden Ring",
+        "price":2100,
+        "description":"The extensive collection consists of alluring pieces of jewellery like earrings, rings, pendant sets, necklaces, anklets, mangalsutra, bracelets and chains. Good enough to be worn on various occasions like party, wedding, engagement, to work, office or during festive season. these jewellery pieces have been created with sparkling finish and the best craftsmanship.",
+        "category":"jewelery",
+        "image":"https://www.jiomart.com/images/product/original/rvtccbuz0x/fashion-frill-golden-ring-for-women-closed-hand-ring-for-girls-women-hug-ring-adjustable-ring-for-women-girls-couple-ring-product-images-rvtccbuz0x-0-202206031000.jpg?im=Resize=(600,750)"
+     },
+     {
+        "id":"18",
+        "title":"Women Sandals",
+        "price":600,
+        "description":"It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search.",
+        "category":"woman's",
+        "image":"https://images-cdn.ubuy.co.in/653f906deda8a73c702edd90-yyymmm-women-sandals-slippers-summer.jpg"
+     },
+     {
+        "id":"19",
+        "title":"Women Cateye Sunglasses",
+        "price":391,
+        "description":"This summer get yourself ready with a trendy pair of Rozior Cat-Eye sunglasses, perfect to style with anything from a cropped white tee and denim jacket to your favorite leopard print swimwear.It's time to up your flirting game with a pair of our red rimmed cat eye glasses or 70's-inspired yellow lens glasses. Cat-Eye sunglasses should be styled with a matching outfit and a lot of attitude. Whether you like tortoiseshell, sporty sunnies or metallic rims, giving you a flash of on-trend metal, we've got you covered for the hottest styles online.",
+        "category":"woman's",
+        "image":"https://m.media-amazon.com/images/I/51Jdj3ZcEVL._SX679_.jpg"
+     },
+     {
+        "id":"20",
+        "title":"T-shirt Brands",
+        "price":1100,
+        "description":"A T-shirt is an item that has come a long way in terms of its transition. It has evolved from being an undergarment in the 19th century to an essentially casual piece. They are now an integral part of one’s wardrobe. T-shirts come in various styles ranging from polo necks, printed, oversized, long, and even cropped. This variety in cuts, patterns, and colours has changed the way we dress up today. You can never have enough T-shirts snugged into your wardrobe. Find more with our list of best t-shirt brands for guys in India that’ll make you look fashion-forward.",
+        "category":"men's",
+        "image":"https://asset20.ckassets.com/thegoodlookbook/wp-content/uploads/sites/2/2019/02/Screen-Shot-2019-02-02-at-3.43.04-pm-e1549102985896.png"
+     }
+]
